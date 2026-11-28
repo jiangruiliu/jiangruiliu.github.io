@@ -8,7 +8,7 @@ hideMeta: true
 ## Journal articles
 
 `2026`
-Yu-Sung Su & **Jiangrui Liu*** (corr. author). The temporal dynamics of online moderation in China. _Journal of Chinese Political Science_.
+Yu-Sung Su & **Jiangrui Liu*** (corr. author). [The temporal dynamics of online moderation in China](https://doi.org/10.1007/s11366-026-09961-w). _Journal of Chinese Political Science_.
 
 `2026`
 **Jiangrui Liu**. [Longitudinal inquiry into public sentiments on environmental governance in China](https://doi.org/10.1177/00219096261503027). _Journal of Asian and African Studies_. [<a href="https://doi.org/10.7910/DVN/02QCZ6" target="_blank" rel="noopener noreferrer">replication materials</a>]
